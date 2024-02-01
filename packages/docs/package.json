@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@isaberamos-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,9 +18,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@isaberamos-ignite-ui/eslint-config": "*",
+    "@isaberamos-ignite-ui/react": "*",
+    "@isaberamos-ignite-ui/tokens": "*",
     "@storybook/addon-essentials": "^7.6.10",
     "@storybook/addon-interactions": "^7.6.10",
     "@storybook/addon-links": "^7.6.10",
