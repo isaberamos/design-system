@@ -1,6 +1,6 @@
 ﻿# Design System
 
-Design system made with Storybook
+Design system made with Storybook and ReactJS
 
 ## Components
 
