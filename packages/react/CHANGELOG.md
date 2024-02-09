@@ -1,5 +1,11 @@
 # @ignite-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- New color
+
 ## 3.0.0
 
 ### Major Changes
