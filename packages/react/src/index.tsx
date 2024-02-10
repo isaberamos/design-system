@@ -8,6 +8,8 @@ export * from './components/TextArea'
 export * from './components/Checkbox'
 export * from './components/MultiStep'
 
+export * from './styles'
+
 // import { ComponentProps } from 'react'
 // import { styled } from './styles'
 

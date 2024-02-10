@@ -1,5 +1,17 @@
 # @ignite-ui/react
 
+## 6.0.0
+
+### Major Changes
+
+- Add some fixes do future projects
+
+## 5.0.0
+
+### Major Changes
+
+- New color
+
 ## 4.0.0
 
 ### Major Changes
